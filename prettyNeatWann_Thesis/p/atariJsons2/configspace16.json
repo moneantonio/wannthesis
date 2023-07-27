@@ -1,0 +1,1 @@
+{"alg_nMean": 6, "alg_nReps": 1, "maxGen": 2048, "popSize": 32, "prob_addConn": 0.1417022549267169, "prob_addNode": 0.45419867405823056, "prob_enable": 0.5109371175115585, "prob_initEnable": 0.36450358402049365, "prob_mutAct": 0.29689779818219536, "ram": 0, "save_mod": 1, "task": "atari_stack128_ram"}

@@ -1,0 +1,10 @@
+{
+    "task":"atari_stack16",
+    "alg_nMean": 6,
+    "alg_nReps": 1,
+    "maxGen": 128,
+    "popSize": 16,
+    "prob_initEnable": 0.5,
+    "select_tournSize": 4,
+    "save_mod": 1
+}

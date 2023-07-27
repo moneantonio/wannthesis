@@ -1,0 +1,13 @@
+{
+    "task":"atari_stack64",
+    "alg_nMean": 6,
+    "alg_nReps": 1,
+    "maxGen": 1024,
+    "popSize": 32,
+    "prob_initEnable": 0.5,
+    "prob_mutAct":  0.25,
+    "prob_addNode": 0.45,
+    "prob_addConn": 0.25,
+    "prob_enable":  0.05,
+    "save_mod": 1
+}

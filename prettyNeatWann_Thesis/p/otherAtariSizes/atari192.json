@@ -1,0 +1,9 @@
+{
+    "task":"atari_stack192",
+    "alg_nMean": 6,
+    "alg_nReps": 2,
+    "maxGen": 1024,
+    "popSize": 32,
+    "prob_initEnable": 0.5,
+    "save_mod": 1
+}
